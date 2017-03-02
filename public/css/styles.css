@@ -1,0 +1,28 @@
+body {
+  background-color: #eaeaea;
+}
+#main .sorted {
+  vertical-align: bottom;
+}
+#main .sorted input {
+  margin-left: 10px;
+}
+ul#results {
+  list-style: none;
+  margin-top: 5px;
+}
+ul#results li h3 {
+  margin-top: 0;
+}
+ul#results li p {
+  margin-bottom: 0;
+}
+ul#results li abbr {
+  color: #232323;
+}
+ul#results li address {
+  margin-bottom: 0;
+}
+ul#results li address a:nth-child(2) {
+  line-height: 20px;
+}
