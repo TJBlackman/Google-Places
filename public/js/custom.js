@@ -114,5 +114,4 @@
         });
         buildList(newResults);
     }
-
 }());
